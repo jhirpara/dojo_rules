@@ -1,7 +1,7 @@
 Kill List
 =========
-* Test Data added
+* jhirpara
 * added grievance 
-* Unformatted code
+* java programmer
 * Repeated code blocks
 * Bad variable names

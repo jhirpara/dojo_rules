@@ -1,7 +1,7 @@
 Kill List
 =========
-* Unused code
-* Functions with side effects
-* Unformatted code
-* Repeated code blocks
+* jhirpara
+* added grievance 
+* java programmer
+* Repeated code blk
 * Bad variable names

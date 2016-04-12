@@ -3,5 +3,5 @@ Kill List
 * jhirpara
 * added grievance 
 * java programmer
-* Repeated code blocks
+* Repeated code block
 * Bad variable names
